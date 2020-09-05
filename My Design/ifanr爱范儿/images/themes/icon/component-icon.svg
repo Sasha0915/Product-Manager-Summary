@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>标题装饰-快讯/栏目等-默认</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Articles" transform="translate(-161.000000, -3741.000000)" fill="#F13B03">
+            <g id="文章" transform="translate(161.000000, 3738.000000)">
+                <g id="icons" transform="translate(0.000000, 3.000000)">
+                    <path d="M13,15 L6,15 L6,13 L13,13 L13,3 L3,3 L3,11 L1,11 L1,1 L3,1 L15,1 L15,3 L15,15 L13,15 Z M1,13 L3,13 L3,15 L1,15 L1,13 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

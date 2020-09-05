@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="15px" viewBox="0 0 17 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>大声-内容列表-默认</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-160.000000, -1710.000000)" fill-rule="nonzero">
+            <g id="头部背景" transform="translate(0.000000, 64.000000)">
+                <g id="Group-12" transform="translate(0.000000, 336.000000)">
+                    <g id="大声" transform="translate(160.000000, 1307.000000)">
+                        <g id="Group-2">
+                            <g id="大声" transform="translate(0.000000, 3.000000)">
+                                <polygon id="Line" fill="#DADADA" points="0 0.555555556 0.921985816 0 10 14.4444444 9.07801418 15"></polygon>
+                                <polygon id="Line-Copy" fill="#FFDE00" points="7 1.07142857 8.68831169 0 17 13.9285714 15.3116883 15"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
